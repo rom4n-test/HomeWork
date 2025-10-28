@@ -15,4 +15,7 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+    private static String getMassage () {
+        return msg;
+    }
 }
